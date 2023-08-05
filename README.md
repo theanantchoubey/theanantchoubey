@@ -3,7 +3,7 @@
 
 ### About Me
 - 🌱 I am currently learning Full Stack Development
-- 👯 I am open for Collaboration & Opportunities
+- 👯 I am open to Collaboration & Opportunities
 - 🔭 I am currently working on MERN Stack Projects
 - 👯 Practicing DSA in C++
 
@@ -28,7 +28,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=theanantchoubey&show_icons=true&locale=en" alt="theanantchoubey" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theanantchoubey&" alt="theanantchoubey" /></p>
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theanantchoubey&" alt="theanantchoubey" /></p> -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theanantchoubey&show_icons=true&locale=en&layout=compact" alt="theanantchoubey" /></p>
 
 <!--
